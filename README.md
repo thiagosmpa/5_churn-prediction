@@ -13,7 +13,7 @@ This project utilizes Autogluon to predict customer churn, representing the pote
 
 Initial analysis reveals a churn rate of 26%, which is concerning. [Figure 1] illustrates this distribution. This necessitates further analysis to identify service improvement areas and reduce churn.
 
-![Figure 1]('images/churn.png')
+![figure1]('images/churn.png')
 
 Data inspection identified the `TotalCharges` column as numeric, but imported as an object. This was rectified using the following code:
 
