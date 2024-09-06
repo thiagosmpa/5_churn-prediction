@@ -1,0 +1,10 @@
+autogluon==1.1.1
+autogluon.common==1.1.1
+autogluon.core==1.1.1
+autogluon.features==1.1.1
+autogluon.multimodal==1.1.1
+autogluon.tabular==1.1.1
+autogluon.timeseries==1.1.1
+matplotlib==3.9.2
+pandas==2.2.2
+seaborn==0.13.2
