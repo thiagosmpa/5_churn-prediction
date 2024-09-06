@@ -51,6 +51,6 @@ Despite achieving acceptable accuracy, recall was low, likely due to the imbalan
 
 The best model performance is shown below.
 
-![Figure 4](images/acc.png)
+<img src="images/acc.png" alt="Figure 5" width="400">
 
 This project highlights the importance of careful data analysis and feature engineering in achieving optimal churn prediction results. 
